@@ -1,0 +1,1 @@
+Adaugi `@pre` după un obiect, ca să ai valoarea precedentă a lui.

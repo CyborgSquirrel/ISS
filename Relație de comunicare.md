@@ -1,0 +1,1 @@
+Atunci când există schimb de informație.

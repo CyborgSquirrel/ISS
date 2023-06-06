@@ -1,0 +1,1 @@
+Se creează [[Model funcțional]] și se obțin cerințele nefuncționale.

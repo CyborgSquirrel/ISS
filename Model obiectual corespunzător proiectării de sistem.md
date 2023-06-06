@@ -1,0 +1,1 @@
+Pornește de la [[Model obiectual de analiză; Model conceptual]] și adaugă descrieri ale [[Interfață|interfețelor]] subsistemelor.
