@@ -1,2 +1,3 @@
-[[Diagramă de secvență]]
-[[Diagramă de comunicare]]
+![[Diagramă de secvență]]
+
+![[Diagramă de comunicare]]

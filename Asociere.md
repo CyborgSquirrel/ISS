@@ -3,7 +3,7 @@ Relații între [[Clasă|clase]] care reprezintă mulțimi de [[Legătură|legă
 Proprietăți:
 - nume
 - roluri
-- multiplicități
+- [[Multiplicitate|multiplicități]]
 
 Fiecare capăt poate fie etichetat cu un nume de rol.
 
@@ -31,6 +31,8 @@ Before calificare:
 
 After calificare: (mind_blown.gif)
 ![[Pasted image 20230604182105.png]]
+
+direcția îți spune cine e copilul
 
 # Tipuri
 
