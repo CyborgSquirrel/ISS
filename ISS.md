@@ -31,3 +31,6 @@
 ![[Tipuri de transformări]]
 
 ![[Ingineria programării vs. inginerie useful]]
+
+`<<enumeration>>`
+`<<dataType>>`

@@ -1,9 +1,16 @@
 Relații între [[Clasă|clase]] care reprezintă mulțimi de [[Legătură|legături]].
 
 Proprietăți:
-- nume
-- roluri
-- [[Multiplicitate|multiplicități]]
+- nume (`detine`, etc.)
+- roluri (`+proprietar`, `+ecuson`, etc.)
+- [[Multiplicitate|multiplicități]] (`1`, `0..1`, `0..*`, `1..*`, `*`, etc.)
+
+Direcționalitate:
+- unidirecțională
+- bidirecțională
+
+>[!note]
+>Dacă relația este bidirecțională, atunci ambele capete trebuie sincronizate.
 
 Fiecare capăt poate fie etichetat cu un nume de rol.
 
