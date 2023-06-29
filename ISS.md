@@ -32,5 +32,4 @@
 
 ![[Ingineria programării vs. inginerie useful]]
 
-`<<enumeration>>`
-`<<dataType>>`
+![[Data Type]]
